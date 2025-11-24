@@ -7,7 +7,11 @@
 **Language:** C
 
 ## Video
-<a href=" https://www.youtube.com/watch?v=VaaXC4p83i0"><img width="848" height="423" alt="image" src="https://github.com/user-attachments/assets/8aa4b7b7-7c20-4571-9cd0-01bc80993ed2" /></a>
+<a href="https://www.youtube.com/watch?v=VaaXC4p83i0"
+   target="_blank"
+   rel="noopener noreferrer">
+    <img width="848" height="423" alt="image" src="https://github.com/user-attachments/assets/8aa4b7b7-7c20-4571-9cd0-01bc80993ed2" />
+</a>
 
 ## 📖 About the Project
 
